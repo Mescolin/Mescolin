@@ -1,52 +1,35 @@
+### Hi, I'm Daniel Mescolin
 
-### Oie devs 👋
+I'm a Front-end Developper, <br/>
+passionate about solving problems using programming. <br/>
+Born in Cataguases, Brazil.
 
-Sou Daniel Mescolin.
+#### My Values:
 
+🧠 Thoughtful & Inclusive Development <br/>
+😇 Loyal & Responsible<br>
+💬 Teamwork & Communication <br/>
+🔮 Mindset of Learning & Curiosity
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+#### Hobbies: 
 
-```python
-    def test_tarefa():
-    cliente = TestClient(app)
-    tarefa_esperada = {"titulo": "titulo", "descricao": "descricao"}
-    resposta = cliente.post("/tarefas", json=tarefa_esperada)
-    tarefa_criada = resposta.json()
-    assert tarefa_criada["titulo"] == tarefa_esperada["titulo"]
-    assert tarefa_criada["descricao"] == tarefa_esperada["descricao"]
-    TAREFAS.clear()
-  
-```
+🎮 Gaming <br/> 
+☕ Java coffee <br/>
+📚 Reading
 
-## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+#### My Stacks:
 
 
-## **GitHub Estatísticas**
+<div>
+  <img align="center" alt="Nagref-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nagref-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nagref-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nagref-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
 
-<a href="https://github.com/Mescolin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mescolin&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Mescolin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mescolin&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[website]: 
-[twitter]: 
-[instagram]: 
-
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+ ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
+ 
+ <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://open.spotify.com/user/1282634307" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
