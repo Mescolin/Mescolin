@@ -7,7 +7,7 @@ Born in Cataguases, Brazil.
 #### My Values:
 
 🧠 Thoughtful & Inclusive Development <br/>
-😇 Loyal & Responsible<br>
+😇 Organized & Responsible<br>
 💬 Teamwork & Communication <br/>
 🔮 Mindset of Learning & Curiosity
 
