@@ -14,7 +14,7 @@ Born in Cataguases, Brazil.
 
 🎮 Gaming <br/> 
 ☕ Java coffee <br/>
-📚 Reading
+📚 Reading <br/>
 🍕 Chef
 
 #### My Stacks:
