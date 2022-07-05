@@ -1,21 +1,21 @@
 ### Hi, I'm Daniel Mescolin
 
-I'm a Front-end Developper, <br/>
+I'm a Front-end Developper and a student of Computer Engineering at the Universidad CEFET-MG <br/>
 passionate about solving problems using programming. <br/>
 Born in Cataguases, Brazil.
 
 #### My Values:
 
-🧠 Thoughtful & Inclusive Development <br/>
-😇 Organized & Responsible<br>
+🧠 Thoughtful <br/>
+😎 Organized & Responsible<br>
 💬 Teamwork & Communication <br/>
-🔮 Mindset of Learning & Curiosity
 
 #### Hobbies: 
 
 🎮 Gaming <br/> 
 ☕ Java coffee <br/>
 📚 Reading
+🍕 Chef
 
 #### My Stacks:
 
