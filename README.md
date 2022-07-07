@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel Mescolin
 
-I'm a Front-end Developper and a student of Computer Engineering at the University CEFET-MG <br/>
+I'm a Front-end Developper and a student of Computer Engineering at the University CEFET-MG, <br/>
 passionate about solving problems using programming. <br/>
 Born in Cataguases, Brazil.
 
