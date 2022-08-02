@@ -1,6 +1,7 @@
 ### Hi, I'm Daniel Mescolin
 
-I'm a Front-end Developper and a student of Computer Engineering at the University CEFET-MG, <br/>
+I'm a Front-end Developper and a student of Computer Engineering at the University CEFET-MG,
+and currently participates in the Rio Pomba Valley project, studying Front-End programming. <br/>
 passionate about solving problems using programming. <br/>
 Born in Cataguases, Brazil.
 
